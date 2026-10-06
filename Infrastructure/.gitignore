@@ -1,0 +1,7 @@
+terraform.tfvars 
+.terraform/
+hashicorp/
+registry.terraform.io
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
